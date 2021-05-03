@@ -21,5 +21,4 @@ TBA
 
 
 ## Special Notes
-We used the openssl library, which is a powerful cryptographic library and widely used in the real world.
-<br>
+TBA
